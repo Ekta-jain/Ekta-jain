@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **BlackBuck**
+- 🔭 I’m currently working at **BlackBuck**
 
 - 🌱 I’m currently learning  **Compose**
 
