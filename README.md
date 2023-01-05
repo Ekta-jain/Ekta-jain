@@ -1,15 +1,15 @@
 ### Hello World 👋
 
 
-**Ekta-jain/Ekta-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I am Ekta Jain, I am Mobile Application Developer</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android Development
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on **BlackBuck**
+
+- 🌱 I’m currently learning  **Compose**
+
+- 💬 Ask me about **Mobile Development**
+
+- 📫 How to reach me **jainekta9876@gmail.com**
+
